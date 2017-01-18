@@ -2,7 +2,20 @@
 * This file will be updated whenever a new release is put into production.
 * Any problems should be reported via the "report an issue" link in the footer of the application.
 
-## v6.2.0 - 2016-07-04
+## v6.3.0
+### Important
+
+
+### Fixed
+
+
+### Added
+
+
+### Changed
+
+
+## v6.2.0 - 2017-01-14
 ### Important
 *This release includes an update to Ruby 2.3.1 along with other dependencies*
 
