@@ -7,6 +7,8 @@
 
 
 ### Fixed
+* Put headers in order corresponding to their order on reservation page
+([#1661](https://github.com/YaleSTC/reservations/issues/1661)).
 
 
 ### Added
